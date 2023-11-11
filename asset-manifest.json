@@ -1,33 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.c859ebdb.css",
-    "main.js": "/static/js/main.203af125.js",
+    "main.css": "/static/css/main.aea05fed.css",
+    "main.js": "/static/js/main.0f653d80.js",
     "static/media/logotipo.png": "/static/media/logotipo.657f8a6a4c97b3e76f3c.png",
-    "static/media/fondo.png": "/static/media/fondo.93bc897838375ed22f58.png",
-    "static/media/atras.png": "/static/media/atras.abd938aedcdb87c996b4.png",
-    "static/media/payaso2.png": "/static/media/payaso2.872b7dc28defaea24192.png",
-    "static/media/top3.png": "/static/media/top3.b042076e2a4f3ac51d53.png",
-    "static/media/top2.png": "/static/media/top2.2ef932430b675267f9df.png",
-    "static/media/btUpdate.png": "/static/media/btUpdate.056ede3d12552fa27781.png",
-    "static/media/top1.png": "/static/media/top1.b884151fbb05c35b57f3.png",
-    "static/media/deleteFavorite.png": "/static/media/deleteFavorite.1091d86ecc9926330f65.png",
-    "static/media/btAudio.png": "/static/media/btAudio.ec572983874ebec6c433.png",
-    "static/media/editar.png": "/static/media/editar.356406d2bde28e3841a5.png",
-    "static/media/ok.png": "/static/media/ok.8bf102366f2fb56f2b2f.png",
-    "static/media/score2.png": "/static/media/score2.712f789450b93fa9ac8b.png",
-    "static/media/score0.png": "/static/media/score0.aec9fb3a8bdf12f951e9.png",
-    "static/media/score1.png": "/static/media/score1.7f9b96b2545435858536.png",
-    "static/media/delete.png": "/static/media/delete.3c662b752278fc52f408.png",
-    "static/media/addJoke.png": "/static/media/addJoke.092fa9fb77c4685b619b.png",
-    "static/media/emptyStarIcon.png": "/static/media/emptyStarIcon.92d8aeab5af46f5182f0.png",
-    "static/media/filledStarIcon.png": "/static/media/filledStarIcon.d0cbd94e0a4a62fc2bf4.png",
-    "static/media/score3.png": "/static/media/score3.b4bb6a5576028eb71d94.png",
+    "static/media/FingerPaint-Regular.ttf": "/static/media/FingerPaint-Regular.3c3a9cdbff527a1cdb37.ttf",
+    "static/media/fondoPizarra.jpg": "/static/media/fondoPizarra.34b648e52358a1cfefe1.jpg",
     "index.html": "/index.html",
-    "main.c859ebdb.css.map": "/static/css/main.c859ebdb.css.map",
-    "main.203af125.js.map": "/static/js/main.203af125.js.map"
+    "main.aea05fed.css.map": "/static/css/main.aea05fed.css.map",
+    "main.0f653d80.js.map": "/static/js/main.0f653d80.js.map"
   },
   "entrypoints": [
-    "static/css/main.c859ebdb.css",
-    "static/js/main.203af125.js"
+    "static/css/main.aea05fed.css",
+    "static/js/main.0f653d80.js"
   ]
 }
