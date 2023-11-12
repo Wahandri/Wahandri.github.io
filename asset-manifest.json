@@ -1,18 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.539caaf8.css",
-    "main.js": "/static/js/main.8e202d58.js",
+    "main.css": "/static/css/main.a8381bad.css",
+    "main.js": "/static/js/main.cb8d1631.js",
+    "static/media/tablon.jpg": "/static/media/tablon.bf775b1109110ff3f028.jpg",
     "static/media/logotipo.png": "/static/media/logotipo.657f8a6a4c97b3e76f3c.png",
+    "static/media/posit.png": "/static/media/posit.677d18d8a6eb29590be4.png",
     "static/media/FingerPaint-Regular.ttf": "/static/media/FingerPaint-Regular.3c3a9cdbff527a1cdb37.ttf",
+    "static/media/posit.jpg": "/static/media/posit.e5e5a07e75a1e55ff3f2.jpg",
     "static/media/fondoPizarra.jpg": "/static/media/fondoPizarra.34b648e52358a1cfefe1.jpg",
     "static/media/flecha-arriba.png": "/static/media/flecha-arriba.5c68a4df2a5fcc8b6a15.png",
     "static/media/flecha-hacia-abajo.png": "/static/media/flecha-hacia-abajo.b4b3dc50d7340b76f29f.png",
     "index.html": "/index.html",
-    "main.539caaf8.css.map": "/static/css/main.539caaf8.css.map",
-    "main.8e202d58.js.map": "/static/js/main.8e202d58.js.map"
+    "main.a8381bad.css.map": "/static/css/main.a8381bad.css.map",
+    "main.cb8d1631.js.map": "/static/js/main.cb8d1631.js.map"
   },
   "entrypoints": [
-    "static/css/main.539caaf8.css",
-    "static/js/main.8e202d58.js"
+    "static/css/main.a8381bad.css",
+    "static/js/main.cb8d1631.js"
   ]
 }
