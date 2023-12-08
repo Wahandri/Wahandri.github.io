@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.4d4859af.css",
-    "main.js": "/static/js/main.100f1d80.js",
-    "static/media/adivinaElNumero.png": "/static/media/adivinaElNumero.0d4c07251f149cd1a09c.png",
+    "main.css": "/static/css/main.3618d517.css",
+    "main.js": "/static/js/main.d89f92b2.js",
+    "static/media/NumberGammer.png": "/static/media/NumberGammer.87ac74afe0411ad1d9e8.png",
     "static/media/hombre.png": "/static/media/hombre.5fa9ef85e125676a8067.png",
     "static/media/tablon.jpg": "/static/media/tablon.bf775b1109110ff3f028.jpg",
     "static/media/logotipo.png": "/static/media/logotipo.657f8a6a4c97b3e76f3c.png",
     "static/media/posit.png": "/static/media/posit.677d18d8a6eb29590be4.png",
+    "static/media/JokesWeb.png": "/static/media/JokesWeb.bc468832844cd55977e6.png",
     "static/media/pokemonVictoria.mp3": "/static/media/pokemonVictoria.64d7507041a5ba77908b.mp3",
-    "static/media/shaktiWeb.png": "/static/media/shaktiWeb.9cf8a61081d443e8cb6e.png",
     "static/media/pokemonNext.mp3": "/static/media/pokemonNext.3dc0430f1122811617e6.mp3",
-    "static/media/JokesWeb.png": "/static/media/JokesWeb.a89a360a3806f5723a5d.png",
+    "static/media/shaktiWeb.png": "/static/media/shaktiWeb.d88dd9af4ca2997259dd.png",
     "static/media/node.js.png": "/static/media/node.js.fc3bd1ec69d7a50e685a.png",
     "static/media/FingerPaint-Regular.ttf": "/static/media/FingerPaint-Regular.3c3a9cdbff527a1cdb37.ttf",
     "static/media/posit.jpg": "/static/media/posit.e5e5a07e75a1e55ff3f2.jpg",
@@ -29,11 +29,11 @@
     "static/media/mongodb.png": "/static/media/mongodb.2178943141ba7e7fae4e.png",
     "static/media/js.png": "/static/media/js.3dfb665e058d08c99f28.png",
     "index.html": "/index.html",
-    "main.4d4859af.css.map": "/static/css/main.4d4859af.css.map",
-    "main.100f1d80.js.map": "/static/js/main.100f1d80.js.map"
+    "main.3618d517.css.map": "/static/css/main.3618d517.css.map",
+    "main.d89f92b2.js.map": "/static/js/main.d89f92b2.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d4859af.css",
-    "static/js/main.100f1d80.js"
+    "static/css/main.3618d517.css",
+    "static/js/main.d89f92b2.js"
   ]
 }
