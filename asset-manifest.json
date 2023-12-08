@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.3618d517.css",
-    "main.js": "/static/js/main.d89f92b2.js",
+    "main.css": "/static/css/main.51ebd2e6.css",
+    "main.js": "/static/js/main.cdfff7e0.js",
     "static/media/NumberGammer.png": "/static/media/NumberGammer.87ac74afe0411ad1d9e8.png",
     "static/media/hombre.png": "/static/media/hombre.5fa9ef85e125676a8067.png",
     "static/media/tablon.jpg": "/static/media/tablon.bf775b1109110ff3f028.jpg",
@@ -12,6 +12,7 @@
     "static/media/pokemonNext.mp3": "/static/media/pokemonNext.3dc0430f1122811617e6.mp3",
     "static/media/shaktiWeb.png": "/static/media/shaktiWeb.d88dd9af4ca2997259dd.png",
     "static/media/node.js.png": "/static/media/node.js.fc3bd1ec69d7a50e685a.png",
+    "static/media/fondoTek.png": "/static/media/fondoTek.c34237167e31dea5c112.png",
     "static/media/FingerPaint-Regular.ttf": "/static/media/FingerPaint-Regular.3c3a9cdbff527a1cdb37.ttf",
     "static/media/posit.jpg": "/static/media/posit.e5e5a07e75a1e55ff3f2.jpg",
     "static/media/fondoPizarra.jpg": "/static/media/fondoPizarra.34b648e52358a1cfefe1.jpg",
@@ -29,11 +30,11 @@
     "static/media/mongodb.png": "/static/media/mongodb.2178943141ba7e7fae4e.png",
     "static/media/js.png": "/static/media/js.3dfb665e058d08c99f28.png",
     "index.html": "/index.html",
-    "main.3618d517.css.map": "/static/css/main.3618d517.css.map",
-    "main.d89f92b2.js.map": "/static/js/main.d89f92b2.js.map"
+    "main.51ebd2e6.css.map": "/static/css/main.51ebd2e6.css.map",
+    "main.cdfff7e0.js.map": "/static/js/main.cdfff7e0.js.map"
   },
   "entrypoints": [
-    "static/css/main.3618d517.css",
-    "static/js/main.d89f92b2.js"
+    "static/css/main.51ebd2e6.css",
+    "static/js/main.cdfff7e0.js"
   ]
 }
