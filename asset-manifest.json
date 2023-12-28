@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.51ebd2e6.css",
-    "main.js": "/static/js/main.cdfff7e0.js",
+    "main.css": "/static/css/main.acfa9f25.css",
+    "main.js": "/static/js/main.d24e396c.js",
     "static/media/NumberGammer.png": "/static/media/NumberGammer.87ac74afe0411ad1d9e8.png",
     "static/media/hombre.png": "/static/media/hombre.5fa9ef85e125676a8067.png",
     "static/media/tablon.jpg": "/static/media/tablon.bf775b1109110ff3f028.jpg",
     "static/media/logotipo.png": "/static/media/logotipo.657f8a6a4c97b3e76f3c.png",
+    "static/media/imgRAM.png": "/static/media/imgRAM.9b9d0e1860d95e494507.png",
     "static/media/posit.png": "/static/media/posit.677d18d8a6eb29590be4.png",
     "static/media/JokesWeb.png": "/static/media/JokesWeb.bc468832844cd55977e6.png",
     "static/media/pokemonVictoria.mp3": "/static/media/pokemonVictoria.64d7507041a5ba77908b.mp3",
@@ -30,11 +31,11 @@
     "static/media/mongodb.png": "/static/media/mongodb.2178943141ba7e7fae4e.png",
     "static/media/js.png": "/static/media/js.3dfb665e058d08c99f28.png",
     "index.html": "/index.html",
-    "main.51ebd2e6.css.map": "/static/css/main.51ebd2e6.css.map",
-    "main.cdfff7e0.js.map": "/static/js/main.cdfff7e0.js.map"
+    "main.acfa9f25.css.map": "/static/css/main.acfa9f25.css.map",
+    "main.d24e396c.js.map": "/static/js/main.d24e396c.js.map"
   },
   "entrypoints": [
-    "static/css/main.51ebd2e6.css",
-    "static/js/main.cdfff7e0.js"
+    "static/css/main.acfa9f25.css",
+    "static/js/main.d24e396c.js"
   ]
 }
