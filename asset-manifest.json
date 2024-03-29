@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.acfa9f25.css",
-    "main.js": "/static/js/main.d24e396c.js",
+    "main.css": "/static/css/main.f32d9b6e.css",
+    "main.js": "/static/js/main.2b73745b.js",
     "static/media/NumberGammer.png": "/static/media/NumberGammer.87ac74afe0411ad1d9e8.png",
     "static/media/hombre.png": "/static/media/hombre.5fa9ef85e125676a8067.png",
     "static/media/tablon.jpg": "/static/media/tablon.bf775b1109110ff3f028.jpg",
@@ -13,7 +13,6 @@
     "static/media/pokemonNext.mp3": "/static/media/pokemonNext.3dc0430f1122811617e6.mp3",
     "static/media/shaktiWeb.png": "/static/media/shaktiWeb.d88dd9af4ca2997259dd.png",
     "static/media/node.js.png": "/static/media/node.js.fc3bd1ec69d7a50e685a.png",
-    "static/media/fondoTek.png": "/static/media/fondoTek.c34237167e31dea5c112.png",
     "static/media/FingerPaint-Regular.ttf": "/static/media/FingerPaint-Regular.3c3a9cdbff527a1cdb37.ttf",
     "static/media/posit.jpg": "/static/media/posit.e5e5a07e75a1e55ff3f2.jpg",
     "static/media/fondoPizarra.jpg": "/static/media/fondoPizarra.34b648e52358a1cfefe1.jpg",
@@ -23,6 +22,7 @@
     "static/media/git.png": "/static/media/git.5418f0cfbb0231fe2d13.png",
     "static/media/mySQL.png": "/static/media/mySQL.9abb470bd3a3e2290e39.png",
     "static/media/trompetaComedia.mp3": "/static/media/trompetaComedia.a49813042eb6905ed005.mp3",
+    "static/media/linkedin.png": "/static/media/linkedin.75cc2ec03719f1fd8fa1.png",
     "static/media/flecha-arriba.png": "/static/media/flecha-arriba.5c68a4df2a5fcc8b6a15.png",
     "static/media/flecha-hacia-abajo.png": "/static/media/flecha-hacia-abajo.b4b3dc50d7340b76f29f.png",
     "static/media/react.png": "/static/media/react.ab970a613322f3f9c401.png",
@@ -31,11 +31,11 @@
     "static/media/mongodb.png": "/static/media/mongodb.2178943141ba7e7fae4e.png",
     "static/media/js.png": "/static/media/js.3dfb665e058d08c99f28.png",
     "index.html": "/index.html",
-    "main.acfa9f25.css.map": "/static/css/main.acfa9f25.css.map",
-    "main.d24e396c.js.map": "/static/js/main.d24e396c.js.map"
+    "main.f32d9b6e.css.map": "/static/css/main.f32d9b6e.css.map",
+    "main.2b73745b.js.map": "/static/js/main.2b73745b.js.map"
   },
   "entrypoints": [
-    "static/css/main.acfa9f25.css",
-    "static/js/main.d24e396c.js"
+    "static/css/main.f32d9b6e.css",
+    "static/js/main.2b73745b.js"
   ]
 }
