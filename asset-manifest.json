@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.fcd61fc1.css",
-    "main.js": "/static/js/main.693bcc41.js",
+    "main.css": "/static/css/main.1a1262b8.css",
+    "main.js": "/static/js/main.8f9c2122.js",
     "static/media/simonaZappoliWeb.png": "/static/media/simonaZappoliWeb.4f65e02f89394ba4219f.png",
     "static/media/NumberGammer.png": "/static/media/NumberGammer.87ac74afe0411ad1d9e8.png",
     "static/media/hombre.png": "/static/media/hombre.5fa9ef85e125676a8067.png",
@@ -30,11 +30,11 @@
     "static/media/mongodb.png": "/static/media/mongodb.2178943141ba7e7fae4e.png",
     "static/media/js.png": "/static/media/js.3dfb665e058d08c99f28.png",
     "index.html": "/index.html",
-    "main.fcd61fc1.css.map": "/static/css/main.fcd61fc1.css.map",
-    "main.693bcc41.js.map": "/static/js/main.693bcc41.js.map"
+    "main.1a1262b8.css.map": "/static/css/main.1a1262b8.css.map",
+    "main.8f9c2122.js.map": "/static/js/main.8f9c2122.js.map"
   },
   "entrypoints": [
-    "static/css/main.fcd61fc1.css",
-    "static/js/main.693bcc41.js"
+    "static/css/main.1a1262b8.css",
+    "static/js/main.8f9c2122.js"
   ]
 }
