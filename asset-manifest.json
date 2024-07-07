@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.d08f0ee6.css",
-    "main.js": "/static/js/main.68b2916c.js",
+    "main.css": "/static/css/main.9f559252.css",
+    "main.js": "/static/js/main.7984f99a.js",
+    "static/media/demo.mp4": "/static/media/demo.bbc39f126a0845346551.mp4",
     "static/media/simonaZappoliWeb.png": "/static/media/simonaZappoliWeb.4f65e02f89394ba4219f.png",
     "static/media/NumberGammer.png": "/static/media/NumberGammer.87ac74afe0411ad1d9e8.png",
     "static/media/hombre.png": "/static/media/hombre.5fa9ef85e125676a8067.png",
@@ -25,16 +26,17 @@
     "static/media/flecha-arriba.png": "/static/media/flecha-arriba.5c68a4df2a5fcc8b6a15.png",
     "static/media/flecha-hacia-abajo.png": "/static/media/flecha-hacia-abajo.b4b3dc50d7340b76f29f.png",
     "static/media/react.png": "/static/media/react.ab970a613322f3f9c401.png",
+    "static/media/delete.png": "/static/media/delete.3c662b752278fc52f408.png",
     "static/media/css-3.png": "/static/media/css-3.463e319bad8e0edf1ef7.png",
     "static/media/html-5.png": "/static/media/html-5.ff3cf75e3b7cbb4ea77c.png",
     "static/media/mongodb.png": "/static/media/mongodb.2178943141ba7e7fae4e.png",
     "static/media/js.png": "/static/media/js.3dfb665e058d08c99f28.png",
     "index.html": "/index.html",
-    "main.d08f0ee6.css.map": "/static/css/main.d08f0ee6.css.map",
-    "main.68b2916c.js.map": "/static/js/main.68b2916c.js.map"
+    "main.9f559252.css.map": "/static/css/main.9f559252.css.map",
+    "main.7984f99a.js.map": "/static/js/main.7984f99a.js.map"
   },
   "entrypoints": [
-    "static/css/main.d08f0ee6.css",
-    "static/js/main.68b2916c.js"
+    "static/css/main.9f559252.css",
+    "static/js/main.7984f99a.js"
   ]
 }
