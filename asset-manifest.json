@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e358f064.css",
-    "main.js": "/static/js/main.3c95df0d.js",
+    "main.js": "/static/js/main.c6e4d4ec.js",
     "static/media/demo.mp4": "/static/media/demo.bbc39f126a0845346551.mp4",
     "static/media/simonaZappoliWeb.png": "/static/media/simonaZappoliWeb.4f65e02f89394ba4219f.png",
     "static/media/NumberGammer.png": "/static/media/NumberGammer.87ac74afe0411ad1d9e8.png",
@@ -23,10 +23,10 @@
     "static/media/js.png": "/static/media/js.3dfb665e058d08c99f28.png",
     "index.html": "/index.html",
     "main.e358f064.css.map": "/static/css/main.e358f064.css.map",
-    "main.3c95df0d.js.map": "/static/js/main.3c95df0d.js.map"
+    "main.c6e4d4ec.js.map": "/static/js/main.c6e4d4ec.js.map"
   },
   "entrypoints": [
     "static/css/main.e358f064.css",
-    "static/js/main.3c95df0d.js"
+    "static/js/main.c6e4d4ec.js"
   ]
 }
