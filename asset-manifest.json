@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.e358f064.css",
+    "main.css": "/static/css/main.a36e9e9b.css",
     "main.js": "/static/js/main.c6e4d4ec.js",
     "static/media/demo.mp4": "/static/media/demo.bbc39f126a0845346551.mp4",
     "static/media/simonaZappoliWeb.png": "/static/media/simonaZappoliWeb.4f65e02f89394ba4219f.png",
@@ -22,11 +22,11 @@
     "static/media/mongodb.png": "/static/media/mongodb.2178943141ba7e7fae4e.png",
     "static/media/js.png": "/static/media/js.3dfb665e058d08c99f28.png",
     "index.html": "/index.html",
-    "main.e358f064.css.map": "/static/css/main.e358f064.css.map",
+    "main.a36e9e9b.css.map": "/static/css/main.a36e9e9b.css.map",
     "main.c6e4d4ec.js.map": "/static/js/main.c6e4d4ec.js.map"
   },
   "entrypoints": [
-    "static/css/main.e358f064.css",
+    "static/css/main.a36e9e9b.css",
     "static/js/main.c6e4d4ec.js"
   ]
 }
