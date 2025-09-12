@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.51f5d3dc.css",
-    "main.js": "/static/js/main.905ca712.js",
+    "main.css": "/static/css/main.743dba9e.css",
+    "main.js": "/static/js/main.c7769a3f.js",
     "static/media/demo.mp4": "/static/media/demo.bbc39f126a0845346551.mp4",
     "static/media/simonaZappoliWeb.png": "/static/media/simonaZappoliWeb.4f65e02f89394ba4219f.png",
+    "static/media/digimonOnline.png": "/static/media/digimonOnline.059d10d0cfd37ad274ac.png",
     "static/media/NumberGammer.png": "/static/media/NumberGammer.87ac74afe0411ad1d9e8.png",
-    "static/media/hombre.png": "/static/media/hombre.1eacaee89fb3a32bb147.png",
+    "static/media/hombrex.png": "/static/media/hombrex.5fa9ef85e125676a8067.png",
     "static/media/JokesWeb.png": "/static/media/JokesWeb.2c15445b376bed464c45.png",
     "static/media/comeriaImage.png": "/static/media/comeriaImage.d17c638375430f91e672.png",
     "static/media/logotipo.png": "/static/media/logotipo.657f8a6a4c97b3e76f3c.png",
@@ -23,11 +24,11 @@
     "static/media/mongodb.png": "/static/media/mongodb.2178943141ba7e7fae4e.png",
     "static/media/js.png": "/static/media/js.3dfb665e058d08c99f28.png",
     "index.html": "/index.html",
-    "main.51f5d3dc.css.map": "/static/css/main.51f5d3dc.css.map",
-    "main.905ca712.js.map": "/static/js/main.905ca712.js.map"
+    "main.743dba9e.css.map": "/static/css/main.743dba9e.css.map",
+    "main.c7769a3f.js.map": "/static/js/main.c7769a3f.js.map"
   },
   "entrypoints": [
-    "static/css/main.51f5d3dc.css",
-    "static/js/main.905ca712.js"
+    "static/css/main.743dba9e.css",
+    "static/js/main.c7769a3f.js"
   ]
 }
