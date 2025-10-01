@@ -1,20 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.51f5d3dc.css",
-    "main.js": "/static/js/main.905ca712.js",
+    "main.css": "/static/css/main.5786113f.css",
+    "main.js": "/static/js/main.9ceee578.js",
     "static/media/demo.mp4": "/static/media/demo.bbc39f126a0845346551.mp4",
     "static/media/simonaZappoliWeb.png": "/static/media/simonaZappoliWeb.4f65e02f89394ba4219f.png",
+    "static/media/digimonOnline.png": "/static/media/digimonOnline.059d10d0cfd37ad274ac.png",
     "static/media/NumberGammer.png": "/static/media/NumberGammer.87ac74afe0411ad1d9e8.png",
-    "static/media/hombre.png": "/static/media/hombre.1eacaee89fb3a32bb147.png",
+    "static/media/hombrex.png": "/static/media/hombrex.5fa9ef85e125676a8067.png",
     "static/media/JokesWeb.png": "/static/media/JokesWeb.2c15445b376bed464c45.png",
     "static/media/comeriaImage.png": "/static/media/comeriaImage.d17c638375430f91e672.png",
-    "static/media/logotipo.png": "/static/media/logotipo.657f8a6a4c97b3e76f3c.png",
     "static/media/imgRAM.png": "/static/media/imgRAM.9b9d0e1860d95e494507.png",
+    "static/media/logotipo.png": "/static/media/logotipo.f6c179f7ab77bed60967.png",
     "static/media/Bootstrap.png": "/static/media/Bootstrap.70f4dd8ef1861d7a9dfe.png",
     "static/media/PHP.png": "/static/media/PHP.a7759c068d5c9f03bebf.png",
+    "static/media/empyVSC.png": "/static/media/empyVSC.22436377086062d6dd34.png",
     "static/media/mySQL.png": "/static/media/mySQL.224c9ccc60ac335dbaac.png",
     "static/media/sass.png": "/static/media/sass.13045b9023e3420bd176.png",
     "static/media/git.png": "/static/media/git.5418f0cfbb0231fe2d13.png",
+    "static/media/env.png": "/static/media/env.a63601c150a4fb5b7988.png",
     "static/media/linkedin.png": "/static/media/linkedin.75cc2ec03719f1fd8fa1.png",
     "static/media/react.png": "/static/media/react.ab970a613322f3f9c401.png",
     "static/media/delete.png": "/static/media/delete.3c662b752278fc52f408.png",
@@ -23,11 +26,11 @@
     "static/media/mongodb.png": "/static/media/mongodb.2178943141ba7e7fae4e.png",
     "static/media/js.png": "/static/media/js.3dfb665e058d08c99f28.png",
     "index.html": "/index.html",
-    "main.51f5d3dc.css.map": "/static/css/main.51f5d3dc.css.map",
-    "main.905ca712.js.map": "/static/js/main.905ca712.js.map"
+    "main.5786113f.css.map": "/static/css/main.5786113f.css.map",
+    "main.9ceee578.js.map": "/static/js/main.9ceee578.js.map"
   },
   "entrypoints": [
-    "static/css/main.51f5d3dc.css",
-    "static/js/main.905ca712.js"
+    "static/css/main.5786113f.css",
+    "static/js/main.9ceee578.js"
   ]
 }
