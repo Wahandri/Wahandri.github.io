@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.5786113f.css",
-    "main.js": "/static/js/main.9ceee578.js",
+    "main.css": "/static/css/main.fad2fb09.css",
+    "main.js": "/static/js/main.da027f7e.js",
     "static/media/demo.mp4": "/static/media/demo.bbc39f126a0845346551.mp4",
     "static/media/simonaZappoliWeb.png": "/static/media/simonaZappoliWeb.4f65e02f89394ba4219f.png",
     "static/media/digimonOnline.png": "/static/media/digimonOnline.059d10d0cfd37ad274ac.png",
@@ -13,6 +13,7 @@
     "static/media/logotipo.png": "/static/media/logotipo.f6c179f7ab77bed60967.png",
     "static/media/Bootstrap.png": "/static/media/Bootstrap.70f4dd8ef1861d7a9dfe.png",
     "static/media/PHP.png": "/static/media/PHP.a7759c068d5c9f03bebf.png",
+    "static/media/fondoDev.png": "/static/media/fondoDev.21c5f89422ea03a8f630.png",
     "static/media/empyVSC.png": "/static/media/empyVSC.22436377086062d6dd34.png",
     "static/media/mySQL.png": "/static/media/mySQL.224c9ccc60ac335dbaac.png",
     "static/media/sass.png": "/static/media/sass.13045b9023e3420bd176.png",
@@ -26,11 +27,11 @@
     "static/media/mongodb.png": "/static/media/mongodb.2178943141ba7e7fae4e.png",
     "static/media/js.png": "/static/media/js.3dfb665e058d08c99f28.png",
     "index.html": "/index.html",
-    "main.5786113f.css.map": "/static/css/main.5786113f.css.map",
-    "main.9ceee578.js.map": "/static/js/main.9ceee578.js.map"
+    "main.fad2fb09.css.map": "/static/css/main.fad2fb09.css.map",
+    "main.da027f7e.js.map": "/static/js/main.da027f7e.js.map"
   },
   "entrypoints": [
-    "static/css/main.5786113f.css",
-    "static/js/main.9ceee578.js"
+    "static/css/main.fad2fb09.css",
+    "static/js/main.da027f7e.js"
   ]
 }
