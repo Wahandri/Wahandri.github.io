@@ -1,16 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.6046e5c8.css",
-    "main.js": "/static/js/main.e3fc385f.js",
+    "main.css": "/static/css/main.ee5eea66.css",
+    "main.js": "/static/js/main.88d3736b.js",
     "static/media/demo.mp4": "/static/media/demo.bbc39f126a0845346551.mp4",
+    "static/media/dj2.png": "/static/media/dj2.8897bcb9480566ed7b16.png",
     "static/media/simonaZappoliWeb.png": "/static/media/simonaZappoliWeb.4f65e02f89394ba4219f.png",
+    "static/media/play-online2.png": "/static/media/play-online2.e3db7558ad3c150e592d.png",
     "static/media/digimonOnline.png": "/static/media/digimonOnline.059d10d0cfd37ad274ac.png",
     "static/media/NumberGammer.png": "/static/media/NumberGammer.87ac74afe0411ad1d9e8.png",
+    "static/media/play-online1.png": "/static/media/play-online1.888d4cfdb1decec6a5ca.png",
+    "static/media/dj1.png": "/static/media/dj1.b66f18da232a4bf8de72.png",
+    "static/media/play-online3.png": "/static/media/play-online3.37799f75152f306ba29f.png",
     "static/media/hombrex.png": "/static/media/hombrex.5fa9ef85e125676a8067.png",
     "static/media/fondoTextura.png": "/static/media/fondoTextura.2bb26e150ca22aedce8c.png",
     "static/media/JokesWeb.png": "/static/media/JokesWeb.2c15445b376bed464c45.png",
-    "static/media/comeriaImage.png": "/static/media/comeriaImage.d17c638375430f91e672.png",
+    "static/media/dj4.png": "/static/media/dj4.58e0d1ae9b6f13c1592d.png",
+    "static/media/comeria1.png": "/static/media/comeria1.d17c638375430f91e672.png",
+    "static/media/comeria3.png": "/static/media/comeria3.073459ef84a907d32af1.png",
     "static/media/imgRAM.png": "/static/media/imgRAM.9b9d0e1860d95e494507.png",
+    "static/media/comeria2.png": "/static/media/comeria2.d2323c2eac262917c069.png",
+    "static/media/comeria4.png": "/static/media/comeria4.4ee53897683e8f5c3007.png",
+    "static/media/dj3.png": "/static/media/dj3.626b6a6274620e6820cf.png",
     "static/media/logotipo.png": "/static/media/logotipo.f6c179f7ab77bed60967.png",
     "static/media/fondoDev.png": "/static/media/fondoDev.afb8b3aee4002f0c7ac5.png",
     "static/media/Bootstrap.png": "/static/media/Bootstrap.70f4dd8ef1861d7a9dfe.png",
@@ -28,11 +38,11 @@
     "static/media/mongodb.png": "/static/media/mongodb.2178943141ba7e7fae4e.png",
     "static/media/js.png": "/static/media/js.3dfb665e058d08c99f28.png",
     "index.html": "/index.html",
-    "main.6046e5c8.css.map": "/static/css/main.6046e5c8.css.map",
-    "main.e3fc385f.js.map": "/static/js/main.e3fc385f.js.map"
+    "main.ee5eea66.css.map": "/static/css/main.ee5eea66.css.map",
+    "main.88d3736b.js.map": "/static/js/main.88d3736b.js.map"
   },
   "entrypoints": [
-    "static/css/main.6046e5c8.css",
-    "static/js/main.e3fc385f.js"
+    "static/css/main.ee5eea66.css",
+    "static/js/main.88d3736b.js"
   ]
 }
