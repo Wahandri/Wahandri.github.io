@@ -1,12 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.ee5eea66.css",
-    "main.js": "/static/js/main.88d3736b.js",
+    "main.css": "/static/css/main.421a331c.css",
+    "main.js": "/static/js/main.510f0eb0.js",
     "static/media/demo.mp4": "/static/media/demo.bbc39f126a0845346551.mp4",
     "static/media/dj2.png": "/static/media/dj2.8897bcb9480566ed7b16.png",
     "static/media/simonaZappoliWeb.png": "/static/media/simonaZappoliWeb.4f65e02f89394ba4219f.png",
     "static/media/play-online2.png": "/static/media/play-online2.e3db7558ad3c150e592d.png",
-    "static/media/digimonOnline.png": "/static/media/digimonOnline.059d10d0cfd37ad274ac.png",
     "static/media/NumberGammer.png": "/static/media/NumberGammer.87ac74afe0411ad1d9e8.png",
     "static/media/play-online1.png": "/static/media/play-online1.888d4cfdb1decec6a5ca.png",
     "static/media/dj1.png": "/static/media/dj1.b66f18da232a4bf8de72.png",
@@ -38,11 +37,11 @@
     "static/media/mongodb.png": "/static/media/mongodb.2178943141ba7e7fae4e.png",
     "static/media/js.png": "/static/media/js.3dfb665e058d08c99f28.png",
     "index.html": "/index.html",
-    "main.ee5eea66.css.map": "/static/css/main.ee5eea66.css.map",
-    "main.88d3736b.js.map": "/static/js/main.88d3736b.js.map"
+    "main.421a331c.css.map": "/static/css/main.421a331c.css.map",
+    "main.510f0eb0.js.map": "/static/js/main.510f0eb0.js.map"
   },
   "entrypoints": [
-    "static/css/main.ee5eea66.css",
-    "static/js/main.88d3736b.js"
+    "static/css/main.421a331c.css",
+    "static/js/main.510f0eb0.js"
   ]
 }
